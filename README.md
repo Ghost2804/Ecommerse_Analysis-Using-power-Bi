@@ -14,7 +14,7 @@ This project focuses on analyzing an ecommerce dataset using Power BI. The goal 
 - **Actionable Insights:** Provided recommendations based on the analysis to support informed business decisions.
 
 ## Files in the Repository
-- **Ecommerce_Analysis.pbix:** The Power BI file containing all the reports and dashboards.
+- **Ecommerce.pbix:** The Power BI file containing all the reports and dashboards.
 - **Dataset.csv:** The dataset used for the analysis.
 - **README.md:** This file, providing an overview of the project.
 
