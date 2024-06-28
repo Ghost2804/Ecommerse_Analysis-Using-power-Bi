@@ -15,11 +15,11 @@ This project focuses on analyzing an ecommerce dataset using Power BI. The goal 
 
 ## Files in the Repository
 - **Ecommerce.pbix:** The Power BI file containing all the reports and dashboards.
-- **Dataset.csv:** The dataset used for the analysis.
+- **ecommerce_product_dataset.csv** The dataset used for the analysis.
 - **README.md:** This file, providing an overview of the project.
 
 ## How to Use the Power BI File
-1. **Download** the `Ecommerce_Analysis.pbix` file.
+1. **Download** the `Ecommerce.pbix` file.
 2. **Open** the file in Power BI Desktop.
 3. **Explore** the interactive dashboards and reports to uncover insights.
 
@@ -29,8 +29,6 @@ To run this project, you will need:
 
 ## Acknowledgements
 Special thanks to the creators of the dataset and the Power BI community for their support and resources.
-
----
 
 Let's connect and discuss your thoughts on this project!
 
